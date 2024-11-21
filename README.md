@@ -20,3 +20,5 @@ make
 ./push_swap 4 67 3 87 23
 ```
 result will be the list of instructions to sort the stack.
+
+you can try the visualizer developed by yooh here: [visualizer](https://push-swap-visualizer.vercel.app/)
